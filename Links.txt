@@ -1,0 +1,6 @@
+# resource links
+
+google sheets link (if applicable): https://docs.google.com/spreadsheets/d/1BVuBdaiVK-_np9Mp5PuYrpmB_-nHY-MHLxDo8Y_VHig/edit#gid=819565901
+python notebook link (if applicable):
+tableau public link: https://public.tableau.com/app/profile/jamil.el.ibrik5505/viz/Globox-Jamil_IbrikCIrate/Story2?publish=yes
+presentation video link: https://drive.google.com/file/d/1a88iK8lqgERvpiXr4JpXyf-QeQASYX18/view?usp=drive_link
